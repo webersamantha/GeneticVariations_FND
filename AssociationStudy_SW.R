@@ -8,7 +8,7 @@
 
 # This code uses SNPassoc package (https://cran.r-project.org/web/packages/SNPassoc/index.html) as described in Gonzalez et al., 2007 (https://doi.org/10.1093/bioinformatics/btm025)
 
-DataPath = '/Users/samanthaweber/Documents/GitHub/GeneticVariations_FND'
+DataPath = 'YOUR DATA PATH' #https://github.com/webersamantha/GeneticVariations_FND
 setwd(DataPath)
 
 # Load packages
